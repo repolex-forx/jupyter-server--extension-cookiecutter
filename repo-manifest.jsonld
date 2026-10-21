@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter-server/extension-cookiecutter/commit/c03fda1fc878fd873b6482e77e9d34a9977e40b6",
       "git:hexsha": "c03fda1fc878fd873b6482e77e9d34a9977e40b6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
