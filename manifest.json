@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyter-server",
+  "repo": "extension-cookiecutter",
+  "versions": [
+    {
+      "commit": "c03fda1fc878fd873b6482e77e9d34a9977e40b6",
+      "parsed_at": "2026-10-21T22:09:39.340231+00:00",
+      "filetree": "filetree/c03fda1fc878fd873b6482e77e9d34a9977e40b6.nq.gz",
+      "blobs": [
+        "blob/d121f6fc6688b95eb230d0645a6d836906966bfa.nq.gz",
+        "blob/d43b5593436f8f21e29a6b45de19ddafe2306f69.nq.gz",
+        "blob/f73f6318f2cde02e05eb5ec7a8641f087ec232d8.nq.gz",
+        "blob/dc409516f41c0461fdfc6c0093db27190f530d86.nq.gz",
+        "blob/75960e874787132e901f02fc6ce8466115e3734e.nq.gz",
+        "blob/010824e2dea369fdae163ff00236641c3c92f531.nq.gz",
+        "blob/4248766df97ca4ec24de4c446d488d180899df72.nq.gz",
+        "blob/2d352af421a2a63c8264e83877f79497337429a6.nq.gz",
+        "blob/7260ed7fd22beb675705e298577d83a28a60c29b.nq.gz",
+        "blob/848df527337e12a3f4e384db08cffcca666376fa.nq.gz",
+        "blob/e87a06b947a89043e2a69743ba22a2e89e229ddb.nq.gz",
+        "blob/9d7b845eba1462302fb89bb9b6bbcdfb5065facf.nq.gz",
+        "blob/46999335dee35f55376a589f0b9e7369886054f3.nq.gz",
+        "blob/0871de2fe7f14371df71eba73bfdcc8bdc21fa60.nq.gz",
+        "blob/1a1efd186ba85e8899162c77d57b319010e94d5a.nq.gz",
+        "blob/8579980566cfab905a5aa1753c80e2fef5e0ce8a.nq.gz",
+        "blob/ecb24722ab6b9967b6ce6337e67cf4e404969b44.nq.gz",
+        "blob/cbd920f6b3ba719f191d20703765bdeef260b138.nq.gz",
+        "blob/83d1229654d01849c21994177291fa16b0db9bf1.nq.gz",
+        "blob/26ff0d4d93c120daab7c5b09959e5f5d2fd0eeb8.nq.gz",
+        "blob/68017e224599fcca7d64957b75b776f7f34164d3.nq.gz",
+        "blob/5ab5644ab314f5ffb8ed412195b9b58b6fa4d945.nq.gz",
+        "blob/c71b5cc78b05030d360052491dbfb2be7e12eac5.nq.gz",
+        "blob/d401445be53b0900b9504dd8de954dcf804d1916.nq.gz",
+        "blob/e22bf8ad91c9ffd1d88430b41c50423ddb02b06c.nq.gz",
+        "blob/1d57a5b94dd435303ccd9244897f829ab242ea1f.nq.gz",
+        "blob/bdaad8974430486f7fa2b18e79d382e6d56f161b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
