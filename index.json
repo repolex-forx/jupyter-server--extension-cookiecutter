@@ -1,0 +1,11 @@
+{
+  "org": "jupyter-server",
+  "repo": "extension-cookiecutter",
+  "versions": [
+    {
+      "commit": "c03fda1fc878fd873b6482e77e9d34a9977e40b6",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:12:17.318757+00:00"
+    }
+  ]
+}
